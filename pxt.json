@@ -4,7 +4,10 @@
     "dependencies": {
         "core": "*",
         "radio": "*",
-        "microphone": "*"
+        "microphone": "*",
+        "datalogger": "*",
+        "bitcommander": "github:4tronix/bitcommander#v1.1.6",
+        "servo": "*"
     },
     "files": [
         "main.blocks",
